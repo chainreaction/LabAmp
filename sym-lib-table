@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name ad806X)(type Legacy)(uri "C:/KiCAD/Lab Ampl/Lab Ampl/ad806X.lib")(options "")(descr ""))
+  (lib (name switcher)(type Legacy)(uri C:/KiCAD/kicad-iso-library/library/switcher.lib)(options "")(descr "")(disabled))
+  (lib (name TPS6040x)(type Legacy)(uri "C:/KiCAD/Lab Ampl/Lab Ampl/TPS6040x.lib")(options "")(descr ""))
+  (lib (name Lab-Ampl-rescue)(type Legacy)(uri "${KIPRJMOD}/Lab Ampl-rescue.lib")(options "")(descr ""))
+)
