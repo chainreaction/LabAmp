@@ -1,1 +1,1 @@
-"# LabAmp" 
+# LabAmp
